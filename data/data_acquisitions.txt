@@ -1,0 +1,21 @@
+---Winter 2017-2018---
+- Number of acquisitions: 50
+---Winter 2018-2019---
+- Number of acquisitions: 50
+---Winter 2019-2020---
+- Number of acquisitions: 55
+---Winter 2020-2021---
+- Number of acquisitions: 52
+---Winter 2021-2022---
+- Number of acquisitions: 55
+---Winter 2022-2023---
+- Number of acquisitions: 54
+---Winter 2023-2024---
+- Number of acquisitions: 56
+---Winter 2024-2025---
+- Number of acquisitions: 58
+---Winter 2025-2026---
+- Number of acquisitions: 60
+Figures saved in: C:\Users\l.ruizlozano\Documents\Project-Sentinel_data\Rovaniemi\figures\EDA\number_of_acquisitions
+---Total acquisitions---
+490

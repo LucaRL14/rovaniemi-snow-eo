@@ -1,0 +1,5 @@
+          Metric     Total  Percentage
+0   Total pixels  51269680  100.000000
+1            NaN         0    0.000000
+2     Bad pixels         0    0.000000
+3  Cloudy pixels  35293466   68.838865
