@@ -73,7 +73,6 @@ pip install -r requirements.txt
 
 1. Copy the template: `copy credits.example.py credits.py`
 2. Fill in your OpenEO Copernicus credentials in `credits.py`.
-3. **Never** commit `credits.py` (it is already excluded by `.gitignore`).
 
 ## Run the Pipeline
 
@@ -97,7 +96,7 @@ OpenEO, xarray, pandas, numpy, matplotlib, seaborn, scipy, pyproj, IPython, scik
 
 ## Data
 
-Large files (NetCDF, bronze/silver CSV files) are **not** versioned on GitHub. They should either be regenerated through the pipeline or stored separately (Git LFS, cloud storage, or local disk).
+Large files (NetCDF, bronze/silver CSV files) are **not** versioned on GitHub. They should either be regenerated through the pipeline.
 
 ## Author
 L. Ruiz Lozano (2026)
